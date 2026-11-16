@@ -1,0 +1,31 @@
+﻿====================================================
+           COMPUTER PULSE - HARDWARE & NETWORK LOG   
+====================================================
+Timestamp          : 2026-11-16 19:46:19
+Active Processes   : 202 running processes
+CPU Utilization    : 7% load
+----------------------------------------------------
+Top 3 Memory-Consuming Processes:
+
+Name            RAM_MB
+----            ------
+chrome          261.93
+ChatGPT Classic 220.05
+chrome          205.63
+
+
+
+----------------------------------------------------
+Disk Storage Breakdown:
+
+DeviceID FreeGB TotalGB
+-------- ------ -------
+C:        29.78  111.18
+
+
+
+----------------------------------------------------
+Network Diagnostics:
+Active IPv4 Address: 192.168.35.71
+Internet Latency   :  ms (Target: 8.8.8.8)
+====================================================
